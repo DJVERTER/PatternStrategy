@@ -1,6 +1,6 @@
-﻿using System;
-using PatternStrategy;
+﻿using PatternStrategy;
 using PatternStrategy.Strategies;
+using System;
 
 Herro hero = new("Squidward");
 
