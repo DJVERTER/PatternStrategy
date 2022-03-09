@@ -14,4 +14,8 @@ hero.SetWeapon(new Plunger());
 
 hero.Attack();
 
+hero.SetWeapon(new WaterGun());
+
+hero.Attack();
+
 Console.ReadLine();
